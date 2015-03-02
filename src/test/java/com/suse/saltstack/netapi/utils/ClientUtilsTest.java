@@ -101,4 +101,3 @@ public class ClientUtilsTest {
         assertEquals(expected, jsonObject);
     }
 }
-
